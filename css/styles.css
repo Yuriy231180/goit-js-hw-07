@@ -25,5 +25,5 @@ button {
 
 .gallery {
   display: flex;
-  column-gap: 40px;
+  column-gap: 50px;
 }
