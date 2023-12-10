@@ -27,3 +27,7 @@ button {
   display: flex;
   column-gap: 50px;
 }
+
+.task2 ul {
+  list-style: none;
+}
