@@ -31,3 +31,21 @@ button {
 .task2 ul {
   list-style: none;
 }
+
+.btn-return-main {
+  padding: 16px;
+  background-color: #3c3c3c;
+  border-radius: 6px;
+  position: fixed;
+  right: 10px;
+  bottom: 5em;
+
+}
+
+.link-btn-return-main {
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: 700;
+
+}
